@@ -21,6 +21,7 @@ makeCacheMatrix <- function(x = matrix()) {
 
 ## Write a short comment describing this function
 ## x is a matrix
+## t represents inverse property
 ## return a list containing functions to:
 ## 1. set the matrix, 2. get the matrix, 3. set the inverse, 4. get the inverse
 ## use `<<-` to assign a value to an object in an environment different from the current environment. 
